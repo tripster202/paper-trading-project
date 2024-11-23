@@ -27,3 +27,11 @@ print("Hello World!")
 # three seperate outcomes according to the three separate strategies
 # the outcomes will be a mix of cash and stock
 # which outcome performed the best over the given time period?
+
+###
+
+# alternative idea
+# 7 businesses
+# normalized data based on the average for the given period
+# if the average price is 380, divide all prices by 380
+# number of widgets sold per day
