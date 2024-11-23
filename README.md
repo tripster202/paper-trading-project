@@ -13,4 +13,4 @@ track trades in cloud database
 track success based on paper trades
 
 ### Resources
-[https://pypi.org/project/yfinance/](yfinance python plugin)
+[yfinance python plugin](https://pypi.org/project/yfinance/)
